@@ -1,12 +1,12 @@
 {
   "name": "qeue-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Bank Qeue Management System API",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Romeo P. Borja Jr.",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
